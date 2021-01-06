@@ -50,4 +50,3 @@
  
  2.15) Make preidctions.
  
- 2.16) Extra: try it with bigger dataset.
